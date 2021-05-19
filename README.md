@@ -10,5 +10,5 @@
 
 ### Connect with me
 
-[<img align="left" alt="ofirshtrull | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin](https://www.linkedin.com/in/ofir-shtrull)
+[<img align="left" alt="ofirshtrull | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ofir-shtrull)
+
