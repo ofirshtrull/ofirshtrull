@@ -2,7 +2,7 @@
 <h3 align="center">I’m a DevOps TL, DevSecOps, bash Ninja, and collector of cool bash aliases</h3>
 
 
-- 🔭 I’m currently work At [Tikal](https://www.tikalk.com/)
+- 🔭 I’m currently work At [Arnica](https://arnica.io/)
 
 - 👯 I’m always trying to learn new and cool things
 
